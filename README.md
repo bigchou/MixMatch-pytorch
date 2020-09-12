@@ -1,4 +1,10 @@
 # MixMatch
+
+~~~~
+python mixmatch.py --gpu 0 --n-labeled 250 --out cifar10@250
+~~~~
+
+
 This is an unofficial PyTorch implementation of [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249). 
 The official Tensorflow implementation is [here](https://github.com/google-research/mixmatch).
 
